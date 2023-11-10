@@ -1,5 +1,5 @@
 ### Oie povo!👋
- Meu nome é Maria Eduarda!
+ **Meu nome é Maria Eduarda!**
 - 🔭 Atualmente estou cursando o 1º Ano do Ensino Médio
 - 🌱 Estou cursando as aulas de Pensamento Computacional
 - 🤔 Meu professor: Edudu5
