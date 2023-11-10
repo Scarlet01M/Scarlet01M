@@ -5,5 +5,4 @@
 - 🤔 Meu professor: SteffenEdu
 - 👯 My Best Friend is: Juhhsz
 - 💬 Tenho 15 anos
-- 📫 
 - 😄 Pronomes: ela/dela
