@@ -1,8 +1,8 @@
 ### Oie povo!👋
  **Meu nome é Maria Eduarda!**
-- 🔭 Atualmente estou cursando o 1º Ano do Ensino Médio
-- 🌱 Estou cursando as aulas de Pensamento Computacional
-- 🤔 My Teatcher: SteffenEdu
+- 🔭 Atualmente estou cursando o 2º Ano do Ensino Médio
+- 🌱 Estou cursando as aulas de Robótica
+- 🤔 My Teatcher: ???
 - 👯 My Best Friend is: Juhhsz
-- 💬 Tenho 15 anos
+- 💬 Tenho 16 anos
 - 😄 Pronomes: ela/dela
